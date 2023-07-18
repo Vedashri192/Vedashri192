@@ -1,0 +1,26 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+       text-align: center; color: rgb(135, 194, 167);
+       text-decoration: rgb(144, 206, 241) dotted underline;
+       font-weight:normal ;
+    }
+p{
+     color: rgb(231, 87, 176);
+    text-align:start;
+}
+body{
+    background-color: rgb(59, 69, 102);
+}
+a{
+    text-decoration: none;
+}
+
+#outer{
+     font-size: 25px;
+}
+#inner{
+     font-size: 10px;
+}
